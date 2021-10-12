@@ -1,0 +1,18 @@
+Explain why we need a DataBase Management System (DBMS) instead of a spreadsheet?
+
+DBMS is a database program, Databases can handle large amounts of data that cannot be managed in a spreadsheet.
+The reasons why we need DBMS:
+1-Computers Can Quickly Answer Lots of Questions. 
+2- Some questions can be really hard to calculate.
+3- We Are Easily Overwhelmed With Information so database management system takes over this burden.
+4- Data environments are comprised of data, hardware, software, people and procedures. The advantages of using databases have been espoused by many, and can be tagged to
+particular characteristics of the DBMS.
+For instance, while Excel spreadsheets and Access databases are generally used by only one person, true database management systems allow for the simultaneous access of 
+multiple users. A database is a single software application that may use many tables, forms and reports, rather than a plethora of spreadsheets owned and managed by people 
+throughout the organization.
+5-With these all the cost of every work or the time you spend while working reduces a lot. So you can save money.
+6- Preventing and efficiently identifying data errors in spreadsheets is harder than databases.
+
+The disadvantages i found is:
+1- For some ppl using DBMS is can be complicated.
+2- You need to know about techonology
